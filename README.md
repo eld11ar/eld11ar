@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
  
  
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 My hobby are **watching some you-tube video about IT**
+- 💬 My hobby are **watching video about IT projects**
 
 - 📫 How to reach me **eldiiarsaparbekov03@gmail.com**
 
