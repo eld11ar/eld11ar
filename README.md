@@ -4,7 +4,8 @@
 ### I`m Frontend Developer
 -
 
-(https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
 
 
 ### Languages and Tools
