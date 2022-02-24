@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/eldiiar-saparbekov-bb162822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eldiiar-saparbekov" height="30" width="40" /></a>
 <a href="https://instagram.com/sapar6ek0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapar6ek0v" height="30" width="40" /></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sapar6ek0v)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Eldiiar_Saparbekov)  
+<a href="https://github.com/sapar6ek0v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sapar6ek0v" height="30" width="40" /></a>
+<a href="https://t.me/Eldiiar_Saparbekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="sapar6ek0v" height="30" width="40" /></a>
 </p>
 
 
