@@ -4,11 +4,11 @@
  
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 My hobby are **watching video about IT projects**
+- 💬 My hobby are **doing something interesting**
 
 - 📫 How to reach me **eldiiarsaparbekov03@gmail.com**
 
-- ⚡ Fun fact **I think I`m hard worker**
+- ⚡ Fun fact **I like sleeping**
 
 
 <h3 align="left">Connect with me:</h3>
