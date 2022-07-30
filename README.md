@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
  
  
-- 🌱 I’m currently learning **JavaScript, React, Nest.js**
+- 🌱 I’m currently learning **JavaScript, React, Nest.js**.
 
-- 💬 My hobby are **wacthing football and UFC**
+- 💬 My hobby are **wacthing football and UFC**.
 
-- 📫 How to reach me **eldiiarsaparbekov03@gmail.com**
+- 📫 How to reach me **eldiiarsaparbekov03@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
