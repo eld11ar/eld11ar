@@ -7,16 +7,16 @@ I'm a front-end developer who builds user-friendly web applications using modern
 📫 How to reach me:
 
 <a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='blank'>
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <img alt='Mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </a>
 <a href='https://www.linkedin.com/in/eldiiar-saparbekov/' target='blank'>
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 <a href='https://t.me/Eldiiar_Saparbekov' target='blank'>
- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+ <img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
 </a>
 <a href='https://github.com/sapar6ek0v' target='blank'>
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
 
 ---
