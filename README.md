@@ -7,12 +7,12 @@ I'm a front-end developer who builds user-friendly web applications using modern
 <p align="left" justify='center'>
 <a href="https://www.linkedin.com/in/eldiiar-saparbekov/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eldiiar-saparbekov" height="30" width="30" />
+<a href="https://t.me/Eldiiar_Saparbekov" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.svg" alt="sapar6ek0v" height="30" width="30" />
+</a>
 </a>
 <a href="https://github.com/sapar6ek0v" target="blank">
 <img align="center" src="https://img.icons8.com/color/2x/github.svg" alt="sapar6ek0v" height="30" width="30" />
-</a>
-<a href="https://t.me/Eldiiar_Saparbekov" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.svg" alt="sapar6ek0v" height="30" width="30" />
 </a>
 </p>
 
