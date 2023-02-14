@@ -43,7 +43,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 <p align="left">
     <a href="https://github.com/sapar6ek0v/get-food">
-       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get-food&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food">
     </a>
     <a href="https://github.com/sapar6ek0v/cinema">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=cinema&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="cinema">
