@@ -54,14 +54,13 @@ I'm a front-end developer who builds user-friendly web applications using modern
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=cinema&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="cinema">
     </a>
     <a href="https://github.com/sapar6ek0v/remember_way">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=remember_way&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="remember way">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=remember_way&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="remember way"/>
     </a>
     <a href="https://github.com/sapar6ek0v/quiz-app">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app"/>
     </a>
-
     <a href="https://github.com/sapar6ek0v?tab=repositories">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
     </a>
 
   </p>
