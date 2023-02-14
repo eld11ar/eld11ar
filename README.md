@@ -4,6 +4,10 @@
 
 I'm a front-end developer who builds user-friendly web applications using modern technologies and always try to learn new technologies and it helps me to improve my skills. Also I quickly get into work, not afraid of difficult tasks, always trying to do my job qualitatively furthermore I am team player with strong communication skills.
 
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+
 <p align="left" justify='center'>
 <a href="https://www.linkedin.com/in/eldiiar-saparbekov/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eldiiar-saparbekov" height="30" width="30" />
@@ -38,6 +42,8 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sapar6ek0v)](https://github.com/sapar6ek0v)
+[![Eldiiar`s GitHub Streak](https://streak-stats.demolab.com?user=sapar6ek0v&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+![Eldiiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapar6ek0v&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapar6ek0v&layout=compact)](https://github.com/sapar6ek0v)
