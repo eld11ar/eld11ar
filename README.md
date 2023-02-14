@@ -44,8 +44,6 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ---
 
-&nbsp;
-
 ### 📂 My Projects
 
 <p align="left" style="margin-bottom:30px;">
@@ -61,15 +59,13 @@ I'm a front-end developer who builds user-friendly web applications using modern
     <a href="https://github.com/sapar6ek0v/quiz-app">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app"/>
     </a><br />
-    <a href="https://github.com/sapar6ek0v?tab=repositories">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
-    </a>
-
   </p>
+  
+  <a href="https://github.com/sapar6ek0v?tab=repositories">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
+  </a>
 
 ---
-
-&nbsp;
 
 ### 📁 Projects I've Participated To
 
@@ -86,8 +82,6 @@ I'm a front-end developer who builds user-friendly web applications using modern
 </p>
 
 ---
-
-&nbsp;
 
 ### 📈 Stats
 
