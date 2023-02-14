@@ -7,40 +7,38 @@ I'm a front-end developer who builds user-friendly web applications using modern
 📫 How to reach me:
 
 <div style="margin-bottom:30px;">
-<a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='_blank'>
-  <img alt='Mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-</a>
-<a href='https://www.linkedin.com/in/eldiiar-saparbekov/' target='_blank'>
-  <img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
-</a>
-<a href='https://t.me/Eldiiar_Saparbekov' target='_blank'>
- <img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
-</a>
-<a href='https://github.com/sapar6ek0v' target='_blank'>
-  <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
-</a>
+  <a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='_blank'>
+    <img alt='Mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+  </a>
+  <a href='https://www.linkedin.com/in/eldiiar-saparbekov/' target='_blank'>
+    <img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
+  <a href='https://t.me/Eldiiar_Saparbekov' target='_blank'>
+  <img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
+  </a>
+  <a href='https://github.com/sapar6ek0v' target='_blank'>
+    <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
+  </a>
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
 ### 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
-<img  align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<div style="margin-bottom:30px;">
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="left" alt="Next" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
+  <img  align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
 
 <br />
 
@@ -48,7 +46,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ### 📂 My Projects
 
-<p align="left">
+<p align="left" style="margin-bottom:30px;">
     <a href="https://github.com/sapar6ek0v/get-food">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get-food&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food">
     </a>
@@ -67,7 +65,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ### 📁 Projects I've Participated To
 
-<p align="left">
+<p align="left" style="margin-bottom:30px;">
     <a href="https://github.com/lyudad/capslol_frontend">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyudad&repo=capslol_frontend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="capslol frontend">
     </a>
