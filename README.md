@@ -6,16 +6,16 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 📫 How to reach me:
 
-<a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='blank'>
+<a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='_blank'>
   <img alt='Mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </a>
-<a href='https://www.linkedin.com/in/eldiiar-saparbekov/' target='blank'>
+<a href='https://www.linkedin.com/in/eldiiar-saparbekov/' target='_blank'>
   <img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
-<a href='https://t.me/Eldiiar_Saparbekov' target='blank'>
+<a href='https://t.me/Eldiiar_Saparbekov' target='_blank'>
  <img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
 </a>
-<a href='https://github.com/sapar6ek0v' target='blank'>
+<a href='https://github.com/sapar6ek0v' target='_blank'>
   <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
 
@@ -39,7 +39,26 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ---
 
-### 📁 Projects I've Contributed To
+### 📂 My Projects
+
+<p align="left">
+    <a href="https://github.com/sapar6ek0v/get-food">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food">
+    </a>
+    <a href="https://github.com/sapar6ek0v/cinema">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=cinema&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="cinema">
+    </a>
+    <a href="https://github.com/sapar6ek0v/remember_way">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=remember_way&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="remember way">
+    </a>
+    <a href="https://github.com/sapar6ek0v/quiz-app">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app">
+    </a>
+  </p>
+
+---
+
+### 📁 Projects I've Participated To
 
 <p align="left">
     <a href="https://github.com/lyudad/capslol_frontend">
@@ -51,11 +70,11 @@ I'm a front-end developer who builds user-friendly web applications using modern
     <a href="https://github.com/The-TRAE-project/Trae_front">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-TRAE-project&repo=Trae_front&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="The TRAE project frontend">
     </a>
-  </p>
+</p>
 
 ---
 
-## 📈 Stats
+### 📈 Stats
 
 <h3>🔥 Streak Stats</h3>
 
