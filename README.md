@@ -44,13 +44,13 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 <p align="left">
     <a href="https://github.com/lyudad/capslol_frontend">
-       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyudad&repo=capslol_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="capslol frontend">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyudad&repo=capslol_frontend&theme=react&bg_color=1A1B27&title_color=8567AA&hide_border=true&icon_color=34BDAE&show_icons=true&show_description=true" alt="capslol frontend">
     </a>
     <a href="https://github.com/lyudad/capslol_backend">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyudad&repo=capslol_backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="capslol backend">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyudad&repo=capslol_backend&theme=react&bg_color=1A1B27&title_color=8567AA&hide_border=true&icon_color=34BDAE&show_icons=true&show_description=true" alt="capslol backend">
     </a>
     <a href="https://github.com/The-TRAE-project/Trae_front">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-TRAE-project&repo=Trae_front&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="The TRAE project frontend">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-TRAE-project&repo=Trae_front&theme=react&bg_color=1A1B27&title_color=8567AA&hide_border=true&icon_color=34BDAE&show_icons=false&show_description=false" alt="The TRAE project frontend">
     </a>
   </p>
 
