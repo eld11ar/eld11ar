@@ -42,8 +42,12 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ## 📈 GitHub Stats
 
-[![Eldiiar`s GitHub Streak](https://streak-stats.demolab.com?user=sapar6ek0v&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+<h3>🔥 Streak Stats</h3>
 
-![Eldiiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapar6ek0v&show_icons=true&theme=gruvbox)
+[![Eldiiar`s GitHub Streak](https://streak-stats.demolab.com?user=sapar6ek0v&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapar6ek0v&layout=compact)](https://github.com/sapar6ek0v)
+<h3>💻 GitHub Profile Stats</h3>
+
+![Eldiiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapar6ek0v&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapar6ek0v&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sapar6ek0v)
