@@ -18,9 +18,9 @@ I'm a front-end developer who builds user-friendly web applications using modern
 <a href='https://github.com/sapar6ek0v' target='_blank'>
   <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
-
+<br/>
 ---
-
+<br/>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
