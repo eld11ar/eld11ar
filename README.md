@@ -6,6 +6,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 📫 How to reach me:
 
+<div style="margin-bottom:30px;">
 <a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='_blank'>
   <img alt='Mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </a>
@@ -18,6 +19,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 <a href='https://github.com/sapar6ek0v' target='_blank'>
   <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
+</div>
 
 <br/>
 
@@ -39,6 +41,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 <img  align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 <br />
 
 ---
