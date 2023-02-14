@@ -6,19 +6,13 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
-
-<p align="left" justify='center'>
-<a href="https://www.linkedin.com/in/eldiiar-saparbekov/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eldiiar-saparbekov" height="30" width="30" />
-<a href="https://t.me/Eldiiar_Saparbekov" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.svg" alt="sapar6ek0v" height="30" width="30" />
-</a>
-</a>
-<a href="https://github.com/sapar6ek0v" target="blank">
-<img align="center" src="https://img.icons8.com/color/2x/github.svg" alt="sapar6ek0v" height="30" width="30" />
-</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+(mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/eldiiar-saparbekov/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eldiiar_Saparbekov)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]
+(https://github.com/sapar6ek0v)
 
 ---
 
@@ -40,7 +34,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 
 ---
 
-### 📕 Projects I've Contributed To
+### 📁 Projects I've Contributed To
 
 <p align="left">
     <a href="https://github.com/lyudad/capslol_frontend">
@@ -50,7 +44,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyudad&repo=capslol_backend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="capslol backend">
     </a>
     <a href="https://github.com/The-TRAE-project/Trae_front">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-TRAE-project&repo=Trae_front&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=false" alt="The TRAE project frontend">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-TRAE-project&repo=Trae_front&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="The TRAE project frontend">
     </a>
   </p>
 
