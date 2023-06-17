@@ -7,7 +7,7 @@ I'm a front-end developer who builds user-friendly web applications using modern
 📫 How to reach me:
 
 <div>
-  <a href='mailto:eldiiarsaparbekov03@gmail.com?subject = Vacancy = Hi' target='_blank'>
+  <a href='mailto:eldiiar.saparbekov.dev@gmail.com?subject = Vacancy = Hi' target='_blank'>
     <img alt='Mail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
   </a>
   <a href='https://www.linkedin.com/in/eldiiar-saparbekov/' target='_blank'>
