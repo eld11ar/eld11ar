@@ -2,7 +2,13 @@
 
 **`FullStack Developer (React/Node.js)`**
 
-I'm a front-end developer who builds user-friendly web applications using modern technologies and always try to learn new technologies and it helps me to improve my skills. Also I quickly get into work, not afraid of difficult tasks, always trying to do my job qualitatively furthermore I am team player with strong communication skills.
+👋 Hello !
+
+I'm Frontend Developer 💻 with combined 1.2 years of internship experience in frontend development. With a passion for web development and an eye for design, I specialize in crafting immersive user experiences that captivate and engage. 
+
+By leveraging the latest frontend technologies like React, Redux, TS, trpc, Next.js, Vite, I transform ideas into visually stunning and intuitive interfaces. Let's collaborate to bring your digital vision to life and create exceptional digital experiences that elevate your brand 📈.
+
+I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.dev@gmail.com
 
 📫 How to reach me:
 
