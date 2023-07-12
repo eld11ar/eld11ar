@@ -4,7 +4,7 @@
 
 👋 Hello !
 
-I'm Frontend Developer 💻 with combined 1.5 years of internship experience in frontend development. With a passion for web development and an eye for design, I specialize in crafting immersive user experiences that captivate and engage. 
+I'm Frontend Developer 💻 with combined 1.7 years of internship experience in frontend development. With a passion for web development and an eye for design, I specialize in crafting immersive user experiences that captivate and engage. 
 
 By leveraging the latest frontend technologies like React, Redux, TS, trpc, Next.js, Vite, I transform ideas into visually stunning and intuitive interfaces. Let's collaborate to bring your digital vision to life and create exceptional digital experiences that elevate your brand 📈.
 
