@@ -28,6 +28,14 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 </div>
 &nbsp;
 
+🛠️ Skills
+
+<div>
+  <a href='https://www.codewars.com/users/Eldiiar%20' target='_blank'>
+    <img alt='codewars' src='https://www.codewars.com/users/Eldiiar%20/badges/micro'/>
+  </a>
+</div>
+
 ---
 
 ### 🧰 Languages and Tools
