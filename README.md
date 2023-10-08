@@ -32,7 +32,7 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 
 <div>
   <a href='https://www.codewars.com/users/Eldiiar%20' target='_blank'>
-    <img alt='codewars' src='[https://www.codewars.com/users/Eldiiar%20/badges/micro](https://www.codewars.com/users/Eldiiar%20/badges/large)'/>
+    <img alt='codewars' src='https://www.codewars.com/users/Eldiiar%20/badges/large'/>
   </a>
 </div>
 
