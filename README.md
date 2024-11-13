@@ -112,3 +112,11 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 ![Eldiiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapar6ek0v&show_icons=true&theme=tokyonight&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapar6ek0v&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sapar6ek0v)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
