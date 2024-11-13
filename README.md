@@ -113,10 +113,9 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapar6ek0v&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sapar6ek0v)
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapar6ek0v/sapar6ek0v/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapar6ek0v/sapar6ek0v/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sapar6ek0v/sapar6ek0v/output/github-snake.svg" />
+</picture>
