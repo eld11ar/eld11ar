@@ -30,11 +30,13 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 
 🛠️ Skills
 
-<div style="display:flex;flex-direction:column;">
+<div>
   <a href='https://www.codewars.com/users/Eldiiar%20' target='_blank'>
     <img alt='codewars' src='https://www.codewars.com/users/Eldiiar%20/badges/large'/>
   </a>
-   <a href='https://www.npmjs.com/package/pwabox' target='_blank'>
+</div>
+<div>
+  <a href='https://www.npmjs.com/package/pwabox' target='_blank'>
     <img alt='pwabox' src='https://img.shields.io/npm/dw/pwabox'/>
   </a>
 </div>
