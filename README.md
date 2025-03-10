@@ -63,19 +63,19 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 
 <p align="left" style="margin-bottom:30px;">
     <a href="https://github.com/eld11ar/get-food-frontend">
-       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get-food-frontend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food-frontend">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eld11ar&repo=get-food-frontend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food-frontend">
     </a>
     <a href="https://github.com/eld11ar/get-food-backend">
-       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get-food-backend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food-backend">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eld11ar&repo=get-food-backend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food-backend">
     </a>
     <a href="https://github.com/eld11ar/cinema">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=cinema&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="cinema">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eld11ar&repo=cinema&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="cinema">
     </a>
     <a href="https://github.com/eld11ar/remember_way">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=remember_way&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="remember way"/>
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eld11ar&repo=remember_way&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="remember way"/>
     </a>
     <a href="https://github.com/eld11ar/quiz-app">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app"/>
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eld11ar&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app"/>
     </a><br />
   </p>
   
