@@ -30,7 +30,7 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 
 🛠️ Skills
 
-<div>
+<div style="margin-bottom:20px;">
   <a href='https://www.codewars.com/users/Eldiiar%20' target='_blank'>
     <img alt='codewars' src='https://www.codewars.com/users/Eldiiar%20/badges/large'/>
   </a>
