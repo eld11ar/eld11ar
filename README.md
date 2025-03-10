@@ -2,11 +2,11 @@
 
 **`FullStack Developer (React/Node.js)`**
 
-👋 Hello !
+👋 Hello!
 
-I'm Frontend Developer 💻 with combined 1.7 years of internship experience in frontend development. With a passion for web development and an eye for design, I specialize in crafting immersive user experiences that captivate and engage. 
+I'm a Frontend Developer 💻 with over 2 years of experience in frontend development. Passionate about web development and with a keen eye for design, I specialize in creating engaging and immersive user interfaces that captivate and involve users.
 
-By leveraging the latest frontend technologies like React, Redux, TS, trpc, Next.js, Vite, I transform ideas into visually stunning and intuitive interfaces. Let's collaborate to bring your digital vision to life and create exceptional digital experiences that elevate your brand 📈.
+By leveraging modern frontend technologies like React, Next.js, Vue, TypeScript, PWA, and Telegram Mini App, I turn ideas into visually stunning and intuitive interfaces. Let’s collaborate to bring your digital vision to life and create exceptional digital experiences that will elevate your brand 📈.
 
 I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.dev@gmail.com
 
@@ -22,7 +22,7 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
   <a href='https://t.me/Eldiiar_Saparbekov' target='_blank'>
   <img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
   </a>
-  <a href='https://github.com/sapar6ek0v' target='_blank'>
+  <a href='https://github.com/eld11ar' target='_blank'>
     <img alt='Github' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
   </a>
 </div>
@@ -62,24 +62,24 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 ### 📂 My Projects
 
 <p align="left" style="margin-bottom:30px;">
-    <a href="https://github.com/sapar6ek0v/get-food-frontend">
+    <a href="https://github.com/eld11ar/get-food-frontend">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get-food-frontend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food-frontend">
     </a>
-    <a href="https://github.com/sapar6ek0v/get-food-backend">
+    <a href="https://github.com/eld11ar/get-food-backend">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=get-food-backend&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="get-food-backend">
     </a>
-    <a href="https://github.com/sapar6ek0v/cinema">
+    <a href="https://github.com/eld11ar/cinema">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=cinema&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=true&show_description=true" alt="cinema">
     </a>
-    <a href="https://github.com/sapar6ek0v/remember_way">
+    <a href="https://github.com/eld11ar/remember_way">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=remember_way&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="remember way"/>
     </a>
-    <a href="https://github.com/sapar6ek0v/quiz-app">
+    <a href="https://github.com/eld11ar/quiz-app">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sapar6ek0v&repo=quiz-app&theme=react&bg_color=1A1B27&title_color=70A4FC&hide_border=true&icon_color=38BDAE&show_icons=false&show_description=true" alt="quiz app"/>
     </a><br />
   </p>
   
-  <a href="https://github.com/sapar6ek0v?tab=repositories">
+  <a href="https://github.com/eld11ar?tab=repositories">
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo" />
   </a>
 
@@ -105,13 +105,13 @@ I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.d
 
 <h3>🔥 Streak Stats</h3>
 
-[![Eldiiar`s GitHub Streak](https://streak-stats.demolab.com?user=sapar6ek0v&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Eldiiar`s GitHub Streak](https://streak-stats.demolab.com?user=eld11ar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <h3>💻 GitHub Profile Stats</h3>
 
-![Eldiiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapar6ek0v&show_icons=true&theme=tokyonight&hide_border=true)
+![Eldiiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eld11ar&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sapar6ek0v&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sapar6ek0v)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eld11ar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sapar6ek0v)
 
 
 <picture>
