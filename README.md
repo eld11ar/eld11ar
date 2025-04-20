@@ -4,7 +4,7 @@
 
 👋 Hello!
 
-I'm a Frontend Developer 💻 with over 2 years of experience in frontend development. Passionate about web development and with a keen eye for design, I specialize in creating engaging and immersive user interfaces that captivate and involve users.
+I'm a FullStack Developer 💻 with over 2 years of experience in frontend development. Passionate about web development and with a keen eye for design, I specialize in creating engaging and immersive user interfaces that captivate and involve users.
 
 By leveraging modern frontend technologies like React, Next.js, Vue, TypeScript, PWA, and Telegram Mini App, I turn ideas into visually stunning and intuitive interfaces. Let’s collaborate to bring your digital vision to life and create exceptional digital experiences that will elevate your brand 📈.
 
