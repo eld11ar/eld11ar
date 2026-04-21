@@ -1,12 +1,10 @@
 # 💻 Eldiiar Saparbekov
 
-**`FullStack Developer`**
+**`Frontend Developer`**
 
 👋 Hello!
 
-I'm a FullStack Developer 💻 with over 3+ years of experience in frontend development. Passionate about web development and with a keen eye for design, I specialize in creating engaging and immersive user interfaces that captivate and involve users.
-
-By leveraging modern frontend technologies like React, Next.js, Vue, TypeScript, PWA, and Telegram Mini App, I turn ideas into visually stunning and intuitive interfaces. Let’s collaborate to bring your digital vision to life and create exceptional digital experiences that will elevate your brand 📈.
+Frontend Developer with 3+ years of experience in fintech and e-commerce. Specialized in React, Next.js, and Vue.js. Led a team of 5 developers, implemented FSD architecture and CI/CD to accelerate releases. Increased user engagement by 20% through PWA implementation and drove 1000+ new users per day through SEO optimization.
 
 I love connecting with new people, you can reach me at 📨 eldiiar.saparbekov.dev@gmail.com
 
