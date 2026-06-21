@@ -107,8 +107,6 @@ I specialize in crafting fast, scalable, and visually polished web applications 
 
 ### 📈 Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eld11ar&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3>🔥 Streak Stats</h3>
 
 [![Eldiiar's GitHub Streak](https://streak-stats.demolab.com?user=eld11ar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -119,8 +117,5 @@ I specialize in crafting fast, scalable, and visually polished web applications 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eld11ar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/eld11ar)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eld11ar/eld11ar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eld11ar/eld11ar/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/eld11ar/eld11ar/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake gif](https://github.com/eld11ar/eld11ar/blob/output/github-snake-dark.svg)
+
