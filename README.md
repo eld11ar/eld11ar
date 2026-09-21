@@ -1,6 +1,6 @@
 # 💻 Eldiiar Saparbekov
 
-**`Frontend Developer → FullStack in Progress`**
+**`FullStack Developer`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eld11ar&color=blue&style=for-the-badge)
 
